@@ -1,4 +1,4 @@
-# atomlite/codeigniter
+# NDPS-Dev/codeigniter
 
 Official Codeigniter library for NTT DATA Payment Service.
 
