@@ -9,7 +9,7 @@ Official Codeigniter library for NTT DATA Payment Service.
 - If your project using composer, run the below command 
     
     ```sh
-    composer require ndps/codeigniter
+    composer require ndps/codeigniter:dev-main
     ```
 
 - If you are not using composer, download the latest release from the releases section. You should download the codeigniter.zip file from atomlite/codeigniter. And place in vendor folder.
