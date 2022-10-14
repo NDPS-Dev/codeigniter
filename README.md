@@ -1,4 +1,4 @@
-# NDPS-Dev/Codeigniter
+# NDPS-Dev/codeigniter
 
 Official Codeigniter library for NTT DATA Payment Service.
 
